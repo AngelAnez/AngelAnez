@@ -7,7 +7,7 @@
 
 <p align="left">
 
-🌱 **Estoy aprendiendo sobre:** Express.js
+🌱 **Estoy aprendiendo sobre:** React
 
 ⚡ **Fun fact:** Me gustan los videojuegos, las canciones acústicas y reirme de cosas absurdas :sweat_smile:
 <!--Intro end-->
@@ -17,7 +17,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,php,python,bash,git,github,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,php,python,bash,git,github,nodejs,tailwind,astro" />
   </a>
 </p>
 <br>
