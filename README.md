@@ -33,4 +33,7 @@
   <a href="https://www.linkedin.com/in/angeldavid2001/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
   </a>
+  <a href="https://angel-anez.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt=website style="margin-bottom: 5px;"/>
+  </a>
 </div>
