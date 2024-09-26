@@ -30,7 +30,7 @@
 
 <h2>Contáctame :mailbox: </h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/angeldavid2001/" target="_blank">
+  <a href="https://www.linkedin.com/in/angel-anez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
   </a>
   <a href="https://angel-anez.vercel.app" target="_blank">
