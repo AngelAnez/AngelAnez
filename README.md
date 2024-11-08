@@ -7,7 +7,7 @@
 
 <p align="left">
 
-🌱 **Estoy aprendiendo sobre:** TypeScript
+🌱 **Estoy aprendiendo sobre:** Next.js
 
 ⚡ **Fun fact:** Me gustan los videojuegos, las canciones acústicas y reirme de cosas absurdas :sweat_smile:
 <!--Intro end-->
@@ -17,7 +17,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,php,python,bash,git,github,nodejs,tailwind,react,astro,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,php,python,nodejs,typescript,react,astro,git,github,bash,docker" />
   </a>
 </p>
 <br>
