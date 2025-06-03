@@ -39,10 +39,10 @@ Ingeniero de Sistemas especializado en el desarrollo de software en conjunto con
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## **📈 Estadísticas de GitHub** 
+## **📈 Estadísticas** 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelAnez&show_icons=true&theme=radical&locale=es" alt="Estadísticas" style="width: 40%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAnez&layout=compact&theme=dark" alt="Lenguajes más usados" style="width: 30%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelAnez&show_icons=true&theme=dark&locale=es&count_private=true" alt="Estadísticas" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAnez&layout=donut&theme=dark&locale=es" alt="Lenguajes más usados" style="width: 34%;" />
 </div>
 
 ## **📂 Proyectos Destacados**
@@ -55,6 +55,6 @@ Ingeniero de Sistemas especializado en el desarrollo de software en conjunto con
 | **[Registro de Visitantes](https://github.com/AngelAnez/registro-zoo-paraguana)** | Sistema para el Zoológico Paraguaná con historial de visitas y reportes. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 
-### **📫 ¿Cómo contactarme?**  
+## **📫 ¿Cómo contactarme?**  
 - 📧 **Email:** angdavid2910@gmail.com  
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/angel-anez](https://www.linkedin.com/in/angel-anez/)
