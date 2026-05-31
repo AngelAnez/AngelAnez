@@ -6,9 +6,9 @@
 ## 🚀 ¿Quién soy? ##
 Ingeniero de Sistemas especializado en el desarrollo de software en conjunto con equipos multidisciplinarios, combinando habilidades técnicas y blandas para brindar soluciones técnicas que generan un impacto real. Con experiencia en la creación de aplicaciones full-stack, la automatización de procesos y el desarrollo de productos mínimos viables (MVP). Apasionado con el desarrollo de aplicaciones que generen experiencias positivas y memorables en sus usuarios.
 
-- 🌱 **Estoy aprendiendo sobre:** Laravel
-- 🔭 **Actualmente:** Me encuentro en búsqueda laboral  
-- ⚡ **Una curiosidad sobre mi:** A veces hago chistes malos porque me gusta aprovechar cualquier oportunidad para reir
+- 🌱 **Estoy aprendiendo sobre:** Buenas prácticas para implementar la IA en un proyecto de desarrollo
+- 🔭 **Actualmente:** Me encuentro trabajando como Analista de Control de Calidad
+- ⚡ **Una curiosidad sobre mi:** Intento cada día esforzarme para ser mi mejor versión
 
 ## **🛠 Tecnologías y Herramientas**  
 
@@ -56,5 +56,5 @@ Ingeniero de Sistemas especializado en el desarrollo de software en conjunto con
 
 
 ## **📫 ¿Cómo contactarme?**  
-- 📧 **Email:** angdavid2910@gmail.com  
+- 📧 **Email:** hola@angel-anez.com  
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/angel-anez](https://www.linkedin.com/in/angel-anez/)
